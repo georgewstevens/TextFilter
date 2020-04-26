@@ -1,0 +1,2 @@
+# TextFilter
+Exercise for Calastone
