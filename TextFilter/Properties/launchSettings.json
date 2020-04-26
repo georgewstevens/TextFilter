@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextFilters": {
+      "commandName": "Project",
+      "commandLineArgs": "All3 Alice.txt"
+    }
+  }
+}
